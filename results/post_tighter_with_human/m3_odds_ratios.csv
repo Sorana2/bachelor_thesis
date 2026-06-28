@@ -1,0 +1,11 @@
+term,estimate,std.error,statistic,p.value,conf.low,conf.high
+(Intercept),0.0209,0.2507,-15.4288,0,0.0127,0.0338
+ai_presence,1.1132,0.2061,0.5206,0.6027,0.7481,1.6797
+log_churn,0.893,0.0385,-2.9436,0.0032,0.8277,0.9625
+log_files_changed,4.4422,0.0821,18.1728,0,3.7904,5.2289
+log_commits,1.2749,0.0868,2.7982,0.0051,1.0758,1.5119
+log_lifetime,0.8487,0.0311,-5.2747,0,0.798,0.9015
+repotriggerdotdev/trigger.dev,0.6579,0.1083,-3.868,1e-4,0.5318,0.813
+log_human_comment_count,0.9953,0.0897,-0.052,0.9585,0.835,1.1871
+log_human_reviewer_count,2.8026,0.1783,5.7814,0,1.9814,3.9862
+is_self_merged,1.4635,0.0986,3.8623,1e-4,1.2068,1.7764

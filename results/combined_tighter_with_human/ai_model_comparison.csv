@@ -1,0 +1,3 @@
+model,term,estimate,conf.low,conf.high,p.value
+main_binary_ai,ai_presence,1.0059,0.6887,1.4898,0.976
+count_ai_events,log_ai_count,0.9672,0.845,1.1077,0.6291

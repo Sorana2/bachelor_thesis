@@ -1,0 +1,3 @@
+repo,n_prs,ai_presence_pct,defect_rate_pct,median_churn,median_files,median_commits,median_lifetime_hrs
+formbricks/formbricks,3349,49.5,32.2,50,3,3,13.3
+triggerdotdev/trigger.dev,1918,73.2,31,107.5,4,2,2.2

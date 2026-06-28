@@ -1,0 +1,10 @@
+term,vif_comparable
+ai_presence,1.0863839466933127
+log_churn,2.547512946175779
+log_files_changed,2.453792814399724
+log_commits,2.0927044559407975
+log_lifetime,1.687953828773486
+repo,1.364526698275263
+log_human_comment_count,2.310186676008637
+log_human_reviewer_count,1.5556303486739365
+is_self_merged,1.154739611530231

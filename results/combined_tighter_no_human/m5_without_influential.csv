@@ -1,0 +1,9 @@
+term,estimate,std.error,statistic,p.value,conf.low,conf.high
+(Intercept),0.0114,0.1418,-31.5506,0,0.0086,0.015
+ai_presence,5.2738,0.4444,3.7413,2e-4,2.3042,13.0385
+periodpost_adoption,0.2731,0.446,-2.9099,0.0036,0.1102,0.6276
+log_churn,0.8284,0.0378,-4.9754,0,0.7687,0.8917
+log_files_changed,8.2038,0.084,25.0686,0,6.9759,9.6952
+log_commits,2.0498,0.0771,9.3121,0,1.7637,2.3861
+log_lifetime,0.7522,0.0284,-10.0406,0,0.7112,0.7948
+repotriggerdotdev/trigger.dev,0.5997,0.0954,-5.3603,0,0.497,0.7224
