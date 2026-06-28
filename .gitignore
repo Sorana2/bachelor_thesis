@@ -1,0 +1,35 @@
+# Environment variables / secrets
+.env
+*.token
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Data files (large outputs, regenerate via scripts)
+*.csv
+!data/post_adoption_with_tighter_defect_signal_without_human_vars.csv
+!data/post_adoption_full.csv
+!data/combined_pre_post_analysis.csv
+*_commit_file_cache.json
+*_failed_prs.txt
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.bbl
+*.blg
+
+# OS files
+.DS_Store
+Thumbs.db
