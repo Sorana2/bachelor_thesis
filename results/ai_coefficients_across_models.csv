@@ -1,0 +1,7 @@
+term,estimate,std.error,statistic,p.value,conf.low,conf.high,model,label
+ai_presence,1.1997,0.2028,0.8976,0.3694,0.8115,1.7988,Post-adoption: AI presence,"OR=1.2 [0.81, 1.8]"
+log_ai_count,1.249,0.076,2.9269,0.0034,1.0765,1.4501,Post-adoption: AI event count,"OR=1.25 [1.08, 1.45]"
+ai_presence,1.1132,0.2061,0.5206,0.6027,0.7481,1.6797,Post + human controls: AI presence,"OR=1.11 [0.75, 1.68]"
+log_ai_count,1.0952,0.0838,1.0851,0.2779,0.9293,1.2908,Post + human controls: AI event count,"OR=1.1 [0.93, 1.29]"
+ai_presence,1.1296,0.1937,0.6293,0.5291,0.7779,1.6635,Pre/post: AI presence,"OR=1.13 [0.78, 1.66]"
+ai_presence,1.0059,0.1966,0.0301,0.976,0.6887,1.4898,Pre/post + human controls: AI presence,"OR=1.01 [0.69, 1.49]"

@@ -1,0 +1,7 @@
+term,estimate,std.error,statistic,p.value,conf.low,conf.high,term_label,label
+ai_presence,1.1997,0.2028,0.8976,0.3694,0.8115,1.7988,CodeRabbit presence,"OR=1.2 [0.81, 1.8]"
+log_churn,0.9115,0.0375,-2.4709,0.0135,0.8465,0.9807,Churn,"OR=0.91 [0.85, 0.98]"
+log_files_changed,4.1786,0.0794,18.0086,0,3.5833,4.8923,Files changed,"OR=4.18 [3.58, 4.89]"
+log_commits,1.4559,0.0808,4.65,0,1.2435,1.7069,Commits,"OR=1.46 [1.24, 1.71]"
+log_lifetime,0.8662,0.0289,-4.9779,0,0.8182,0.9162,PR lifetime hours,"OR=0.87 [0.82, 0.92]"
+repotriggerdotdev/trigger.dev,0.6893,0.0972,-3.8268,1e-4,0.5694,0.8337,Repo: Trigger.dev vs Formbricks,"OR=0.69 [0.57, 0.83]"

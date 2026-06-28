@@ -18,6 +18,7 @@ venv/
 !data/post_adoption_with_tighter_defect_signal_without_human_vars.csv
 !data/post_adoption_full.csv
 !data/combined_pre_post_analysis.csv
+!results/*.csv
 *_commit_file_cache.json
 *_failed_prs.txt
 
